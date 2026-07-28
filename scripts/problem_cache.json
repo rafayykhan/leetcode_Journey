@@ -1,4 +1,14 @@
 {
+  "3sum": {
+    "difficulty": "Medium",
+    "id": "15",
+    "title": "3Sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
   "contains-duplicate": {
     "difficulty": "Easy",
     "id": "217",
