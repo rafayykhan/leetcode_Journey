@@ -1,0 +1,12 @@
+{
+  "contains-duplicate": {
+    "difficulty": "Easy",
+    "id": "217",
+    "title": "Contains Duplicate",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  }
+}

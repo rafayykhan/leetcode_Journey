@@ -11,8 +11,8 @@ No streaks faked, no days skipped quietly. 🔥
 
 <!-- BADGES:START -->
 
-![Day](https://img.shields.io/badge/Day-000-7C3AED?style=for-the-badge&labelColor=0D1117)
-![Solved](https://img.shields.io/badge/Solved-0-2563EB?style=for-the-badge&labelColor=0D1117)
+![Day](https://img.shields.io/badge/Day-001-7C3AED?style=for-the-badge&labelColor=0D1117)
+![Solved](https://img.shields.io/badge/Solved-1-2563EB?style=for-the-badge&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/Python-3.12-06B6D4?style=for-the-badge&labelColor=0D1117)
 ![Status](https://img.shields.io/badge/Status-Just_Started-22C55E?style=for-the-badge&labelColor=0D1117)
 
@@ -97,11 +97,11 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 <!-- TOPICS:START -->
 
 <details>
-<summary><b>🔢 Array</b> — 0 solved</summary>
+<summary><b>🔢 Array</b> — 1 solved</summary>
 
 | Day | Problem | Difficulty |
 |-----|---------|------------|
-| — | *coming soon* | — |
+| Day 001 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟩 Easy |
 
 </details>
 
@@ -115,11 +115,11 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 </details>
 
 <details>
-<summary><b>#️⃣ Hash Table</b> — 0 solved</summary>
+<summary><b>#️⃣ Hash Table</b> — 1 solved</summary>
 
 | Day | Problem | Difficulty |
 |-----|---------|------------|
-| — | *coming soon* | — |
+| Day 001 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟩 Easy |
 
 </details>
 
@@ -367,12 +367,12 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 
 | Metric | Count |
 |--------|-------|
-| 📅 Total Days | 0 |
-| 🟩 Easy | 0 |
+| 📅 Total Days | 1 |
+| 🟩 Easy | 1 |
 | 🟨 Medium | 0 |
 | 🟥 Hard | 0 |
-| 🧩 Topics Covered | 0 / 29 |
-| 🔥 Current Streak | 0 |
+| 🧩 Topics Covered | 2 / 29 |
+| 🔥 Current Streak | 1 |
 
 <!-- STATS:END -->
 
