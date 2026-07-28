@@ -9,10 +9,14 @@ No streaks faked, no days skipped quietly. 🔥
 
 <br>
 
+<!-- BADGES:START -->
+
 ![Day](https://img.shields.io/badge/Day-000-7C3AED?style=for-the-badge&labelColor=0D1117)
 ![Solved](https://img.shields.io/badge/Solved-0-2563EB?style=for-the-badge&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/Python-3.12-06B6D4?style=for-the-badge&labelColor=0D1117)
 ![Status](https://img.shields.io/badge/Status-Just_Started-22C55E?style=for-the-badge&labelColor=0D1117)
+
+<!-- BADGES:END -->
 
 </div>
 
@@ -89,6 +93,8 @@ Step 3 is the whole game. Every optimisation is an answer to that question. 💡
 ## 📚 Topics Covered
 
 Click any topic to expand. Rows get added as problems get solved. 👇
+
+<!-- TOPICS:START -->
 
 <details>
 <summary><b>🔢 Array</b> — 0 solved</summary>
@@ -351,9 +357,13 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 
 </details>
 
+<!-- TOPICS:END -->
+
 ---
 
 ## 📊 Stats
+
+<!-- STATS:START -->
 
 | Metric | Count |
 |--------|-------|
@@ -363,6 +373,8 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 | 🟥 Hard | 0 |
 | 🧩 Topics Covered | 0 / 29 |
 | 🔥 Current Streak | 0 |
+
+<!-- STATS:END -->
 
 ---
 
@@ -387,11 +399,15 @@ they can't debug. 🙃
 
 ## 🎯 Milestones
 
+<!-- MILESTONES:START -->
+
 - [ ] 🥉 **Day 10** — first ten in the bag
 - [ ] 🥈 **Day 25** — a Medium solved cold, no hints
 - [ ] 🥇 **Day 50** — five topics genuinely comfortable
 - [ ] 💎 **Day 75** — first Hard cracked solo
 - [ ] 👑 **Day 100** — pattern recognised before the statement ends
+
+<!-- MILESTONES:END -->
 
 ---
 
