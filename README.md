@@ -11,8 +11,8 @@ No streaks faked, no days skipped quietly. 🔥
 
 <!-- BADGES:START -->
 
-![Day](https://img.shields.io/badge/Day-002-7C3AED?style=for-the-badge&labelColor=0D1117)
-![Solved](https://img.shields.io/badge/Solved-2-2563EB?style=for-the-badge&labelColor=0D1117)
+![Day](https://img.shields.io/badge/Day-003-7C3AED?style=for-the-badge&labelColor=0D1117)
+![Solved](https://img.shields.io/badge/Solved-3-2563EB?style=for-the-badge&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/Python-3.12-06B6D4?style=for-the-badge&labelColor=0D1117)
 ![Status](https://img.shields.io/badge/Status-Just_Started-22C55E?style=for-the-badge&labelColor=0D1117)
 
@@ -97,12 +97,13 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 <!-- TOPICS:START -->
 
 <details>
-<summary><b>🔢 Array</b> — 2 solved</summary>
+<summary><b>🔢 Array</b> — 3 solved</summary>
 
 | Day | Problem | Difficulty |
 |-----|---------|------------|
 | Day 001 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟩 Easy |
 | Day 002 | [3Sum](https://leetcode.com/problems/3sum/) | 🟨 Medium |
+| Day 003 | [4Sum](https://leetcode.com/problems/4sum/) | 🟨 Medium |
 
 </details>
 
@@ -125,11 +126,12 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 </details>
 
 <details>
-<summary><b>👉👈 Two Pointers</b> — 1 solved</summary>
+<summary><b>👉👈 Two Pointers</b> — 2 solved</summary>
 
 | Day | Problem | Difficulty |
 |-----|---------|------------|
 | Day 002 | [3Sum](https://leetcode.com/problems/3sum/) | 🟨 Medium |
+| Day 003 | [4Sum](https://leetcode.com/problems/4sum/) | 🟨 Medium |
 
 </details>
 
@@ -368,9 +370,9 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 
 | Metric | Count |
 |--------|-------|
-| 📅 Total Days | 2 |
+| 📅 Total Days | 3 |
 | 🟩 Easy | 1 |
-| 🟨 Medium | 1 |
+| 🟨 Medium | 2 |
 | 🟥 Hard | 0 |
 | 🧩 Topics Covered | 3 / 29 |
 | 🔥 Current Streak | 2 |

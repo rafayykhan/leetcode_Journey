@@ -9,6 +9,16 @@
       "Sorting"
     ]
   },
+  "4sum": {
+    "difficulty": "Medium",
+    "id": "18",
+    "title": "4Sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
   "contains-duplicate": {
     "difficulty": "Easy",
     "id": "217",
