@@ -373,7 +373,7 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 | 🟨 Medium | 1 |
 | 🟥 Hard | 0 |
 | 🧩 Topics Covered | 3 / 29 |
-| 🔥 Current Streak | 1 |
+| 🔥 Current Streak | 2 |
 
 <!-- STATS:END -->
 
