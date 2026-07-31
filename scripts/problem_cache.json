@@ -19,6 +19,16 @@
       "Sorting"
     ]
   },
+  "add-two-numbers": {
+    "difficulty": "Medium",
+    "id": "2",
+    "title": "Add Two Numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
   "contains-duplicate": {
     "difficulty": "Easy",
     "id": "217",

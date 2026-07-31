@@ -11,8 +11,8 @@ No streaks faked, no days skipped quietly. 🔥
 
 <!-- BADGES:START -->
 
-![Day](https://img.shields.io/badge/Day-003-7C3AED?style=for-the-badge&labelColor=0D1117)
-![Solved](https://img.shields.io/badge/Solved-3-2563EB?style=for-the-badge&labelColor=0D1117)
+![Day](https://img.shields.io/badge/Day-004-7C3AED?style=for-the-badge&labelColor=0D1117)
+![Solved](https://img.shields.io/badge/Solved-4-2563EB?style=for-the-badge&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/Python-3.12-06B6D4?style=for-the-badge&labelColor=0D1117)
 ![Status](https://img.shields.io/badge/Status-Just_Started-22C55E?style=for-the-badge&labelColor=0D1117)
 
@@ -190,11 +190,11 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 </details>
 
 <details>
-<summary><b>🔗 Linked List</b> — 0 solved</summary>
+<summary><b>🔗 Linked List</b> — 1 solved</summary>
 
 | Day | Problem | Difficulty |
 |-----|---------|------------|
-| — | *coming soon* | — |
+| Day 004 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟨 Medium |
 
 </details>
 
@@ -271,11 +271,11 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 </details>
 
 <details>
-<summary><b>♻️ Recursion</b> — 0 solved</summary>
+<summary><b>♻️ Recursion</b> — 1 solved</summary>
 
 | Day | Problem | Difficulty |
 |-----|---------|------------|
-| — | *coming soon* | — |
+| Day 004 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟨 Medium |
 
 </details>
 
@@ -343,11 +343,11 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 </details>
 
 <details>
-<summary><b>🎲 Math & Simulation</b> — 0 solved</summary>
+<summary><b>🎲 Math & Simulation</b> — 1 solved</summary>
 
 | Day | Problem | Difficulty |
 |-----|---------|------------|
-| — | *coming soon* | — |
+| Day 004 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟨 Medium |
 
 </details>
 
@@ -370,12 +370,12 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 
 | Metric | Count |
 |--------|-------|
-| 📅 Total Days | 3 |
+| 📅 Total Days | 4 |
 | 🟩 Easy | 1 |
-| 🟨 Medium | 2 |
+| 🟨 Medium | 3 |
 | 🟥 Hard | 0 |
-| 🧩 Topics Covered | 3 / 29 |
-| 🔥 Current Streak | 3 |
+| 🧩 Topics Covered | 6 / 29 |
+| 🔥 Current Streak | 4 |
 
 <!-- STATS:END -->
 
