@@ -375,7 +375,7 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 | 🟨 Medium | 3 |
 | 🟥 Hard | 0 |
 | 🧩 Topics Covered | 6 / 29 |
-| 🔥 Current Streak | 4 |
+| 🔥 Current Streak | 0 |
 
 <!-- STATS:END -->
 
