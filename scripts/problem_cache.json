@@ -39,6 +39,15 @@
       "Sorting"
     ]
   },
+  "merge-two-sorted-lists": {
+    "difficulty": "Easy",
+    "id": "21",
+    "title": "Merge Two Sorted Lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
   "remove-nth-node-from-end-of-list": {
     "difficulty": "Medium",
     "id": "19",
