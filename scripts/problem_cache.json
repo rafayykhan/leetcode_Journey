@@ -39,6 +39,18 @@
       "Sorting"
     ]
   },
+  "merge-k-sorted-lists": {
+    "difficulty": "Hard",
+    "id": "23",
+    "title": "Merge k Sorted Lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort",
+      "Tournament Sort"
+    ]
+  },
   "merge-two-sorted-lists": {
     "difficulty": "Easy",
     "id": "21",

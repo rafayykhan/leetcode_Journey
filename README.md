@@ -11,8 +11,8 @@ No streaks faked, no days skipped quietly. 🔥
 
 <!-- BADGES:START -->
 
-![Day](https://img.shields.io/badge/Day-006-7C3AED?style=for-the-badge&labelColor=0D1117)
-![Solved](https://img.shields.io/badge/Solved-6-2563EB?style=for-the-badge&labelColor=0D1117)
+![Day](https://img.shields.io/badge/Day-007-7C3AED?style=for-the-badge&labelColor=0D1117)
+![Solved](https://img.shields.io/badge/Solved-7-2563EB?style=for-the-badge&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/Python-3.12-06B6D4?style=for-the-badge&labelColor=0D1117)
 ![Status](https://img.shields.io/badge/Status-Just_Started-22C55E?style=for-the-badge&labelColor=0D1117)
 
@@ -191,13 +191,14 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 </details>
 
 <details>
-<summary><b>🔗 Linked List</b> — 3 solved</summary>
+<summary><b>🔗 Linked List</b> — 4 solved</summary>
 
 | Day | Problem | Difficulty |
 |-----|---------|------------|
 | Day 004 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟨 Medium |
 | Day 005 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟨 Medium |
 | Day 006 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟩 Easy |
+| Day 007 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🟥 Hard |
 
 </details>
 
@@ -220,11 +221,11 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 </details>
 
 <details>
-<summary><b>⛰️ Heap / Priority Queue</b> — 0 solved</summary>
+<summary><b>⛰️ Heap / Priority Queue</b> — 1 solved</summary>
 
 | Day | Problem | Difficulty |
 |-----|---------|------------|
-| — | *coming soon* | — |
+| Day 007 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🟥 Hard |
 
 </details>
 
@@ -274,12 +275,13 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 </details>
 
 <details>
-<summary><b>♻️ Recursion</b> — 2 solved</summary>
+<summary><b>♻️ Recursion</b> — 3 solved</summary>
 
 | Day | Problem | Difficulty |
 |-----|---------|------------|
 | Day 004 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟨 Medium |
 | Day 006 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟩 Easy |
+| Day 007 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🟥 Hard |
 
 </details>
 
@@ -374,12 +376,12 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 
 | Metric | Count |
 |--------|-------|
-| 📅 Total Days | 6 |
+| 📅 Total Days | 7 |
 | 🟩 Easy | 2 |
 | 🟨 Medium | 4 |
-| 🟥 Hard | 0 |
-| 🧩 Topics Covered | 6 / 29 |
-| 🔥 Current Streak | 0 |
+| 🟥 Hard | 1 |
+| 🧩 Topics Covered | 7 / 29 |
+| 🔥 Current Streak | 1 |
 
 <!-- STATS:END -->
 
