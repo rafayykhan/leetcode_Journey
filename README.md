@@ -11,8 +11,8 @@ No streaks faked, no days skipped quietly. 🔥
 
 <!-- BADGES:START -->
 
-![Day](https://img.shields.io/badge/Day-007-7C3AED?style=for-the-badge&labelColor=0D1117)
-![Solved](https://img.shields.io/badge/Solved-7-2563EB?style=for-the-badge&labelColor=0D1117)
+![Day](https://img.shields.io/badge/Day-008-7C3AED?style=for-the-badge&labelColor=0D1117)
+![Solved](https://img.shields.io/badge/Solved-8-2563EB?style=for-the-badge&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/Python-3.12-06B6D4?style=for-the-badge&labelColor=0D1117)
 ![Status](https://img.shields.io/badge/Status-Just_Started-22C55E?style=for-the-badge&labelColor=0D1117)
 
@@ -108,20 +108,21 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 </details>
 
 <details>
-<summary><b>🔤 String</b> — 0 solved</summary>
+<summary><b>🔤 String</b> — 1 solved</summary>
 
 | Day | Problem | Difficulty |
 |-----|---------|------------|
-| — | *coming soon* | — |
+| Day 008 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟩 Easy |
 
 </details>
 
 <details>
-<summary><b>#️⃣ Hash Table</b> — 1 solved</summary>
+<summary><b>#️⃣ Hash Table</b> — 2 solved</summary>
 
 | Day | Problem | Difficulty |
 |-----|---------|------------|
 | Day 001 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟩 Easy |
+| Day 008 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟩 Easy |
 
 </details>
 
@@ -376,12 +377,12 @@ Click any topic to expand. Rows get added as problems get solved. 👇
 
 | Metric | Count |
 |--------|-------|
-| 📅 Total Days | 7 |
-| 🟩 Easy | 2 |
+| 📅 Total Days | 8 |
+| 🟩 Easy | 3 |
 | 🟨 Medium | 4 |
 | 🟥 Hard | 1 |
-| 🧩 Topics Covered | 7 / 29 |
-| 🔥 Current Streak | 0 |
+| 🧩 Topics Covered | 8 / 29 |
+| 🔥 Current Streak | 1 |
 
 <!-- STATS:END -->
 

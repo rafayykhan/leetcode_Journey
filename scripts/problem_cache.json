@@ -68,5 +68,15 @@
       "Linked List",
       "Two Pointers"
     ]
+  },
+  "valid-anagram": {
+    "difficulty": "Easy",
+    "id": "242",
+    "title": "Valid Anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
   }
 }
